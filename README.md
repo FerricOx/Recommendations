@@ -1,2 +1,1 @@
-# Yeva-recommendations
-This repository is for recommendations for anime, music, tv and manga that I should read
+This is a repository that allows me to keep track of my recommendations that are recommended to me.
